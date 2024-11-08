@@ -9,7 +9,7 @@ public class Main
 		a=c.nextInt();
 		b=c.nextInt();
 		d=a+b;
-		System.output.println("addition of two numbers:" + d);
+		System.out.println("addition of two numbers:" + d);
 	}
 }
 
