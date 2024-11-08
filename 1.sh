@@ -18,5 +18,4 @@ then
 	echo "script successfull"
 else
 	echo "installation failed"
-fi
-
+f
